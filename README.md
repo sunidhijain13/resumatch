@@ -1,4 +1,10 @@
-# ResuMatch.ai 🔍✨
+# ResuMatch.ai 🔍✨ 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://resumatch-4ww7z4d7cyvfxghlpcjpfw.streamlit.app)
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)
+![Built with Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b?logo=streamlit&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Deployed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
 
 **AI-powered Resume–Job Description Alignment Assistant**  
 Analyze your resume's alignment with a job description and get AI-generated bullet point improvements all in one click.
