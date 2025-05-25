@@ -1,7 +1,7 @@
 # ResuMatch.ai 🔍✨
 
 **AI-powered Resume–Job Description Alignment Assistant**  
-Analyze your resume's alignment with a job description and get AI-generated bullet point improvements — all in one click.
+Analyze your resume's alignment with a job description and get AI-generated bullet point improvements all in one click.
 
 🚀 [Live App](https://resumatch-4ww7z4d7cyvfxghlpcjpfw.streamlit.app)
 
