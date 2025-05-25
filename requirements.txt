@@ -6,3 +6,4 @@ keybert
 scikit-learn
 sentence-transformers
 reportlab
+pdfplumber
