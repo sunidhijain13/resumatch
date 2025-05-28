@@ -12,6 +12,7 @@ Analyze your resume's alignment with a job description and get AI-generated bull
 🚀 [Live App](https://resumatch-4ww7z4d7cyvfxghlpcjpfw.streamlit.app)
 
 ---
+## Preview
 ### 📸 Screenshot
 
 ![ResuMatch UI](./screenshot.png)
